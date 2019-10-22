@@ -2,7 +2,6 @@
 I did a usability test for the app Runkeeper. I asked a friend who has never used the app to test it and give feedback.  
 
 1. The purpose of usability testing is to get feedback from users on how easily usable an app is. This testing helps to give designers imperative feedback on how to improve the app's interface. Users often have unbiased opinions since they are using it for the first time and can show designers where people easily and frequently get confused. User testing is needed and important as people see things in different ways.  
-
 In my heuristic evaluation I thought Runkeeper suffered mostly in its Aesthetic and Minimalist Design and Consistency and Standards. Thus I made my three tasks test those two heuristic values. I made my user look through the cluttered profile interface, click potentially ambigious or confusing symbols, and figure out what buttons meant and referred to. I just wanted to test how easy or not so easy the app is to use and how its crowdedness or ambiguity affected it. I asked my user to give her honest opinion of the interface and I saw her struggle in some tasks and easily complete other tasks. I gained great insights and also asked if she had any recommendations too or features she was interested in.
 
 2. Online Survey: https://forms.gle/9iLkcZvYZ78wrD3d6
